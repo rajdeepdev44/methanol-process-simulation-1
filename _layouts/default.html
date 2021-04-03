@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h3 class="header">Contents</h3>
+        <p class="header"><a href="#process-description">Process Description</a></p>
+        <p class="header"><a href="#process-flowsheet">Process Flowsheet</a></p>
+        <p class="header"><a href="#operating-condition">Operating Conditions</a></p>
+        <p class="header"><a href="#analysis-and-discussion">Analysis and Discussion</a></p>
+        <p class="header"><a href="#references">References</a></p>
+        
+        <ul>
+          <li class="download"><a class="buttons" href="/assets/bkp/.bkp">Download .bkp</a></li>
+        </ul>
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer>
+        <p><b>Author: Rajdeep Dev <br> Student ID: 71666887</b></p>
+      </footer>
+    </div>
+  </body>
+</html>

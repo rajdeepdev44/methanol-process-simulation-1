@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header > h3{
+  color: white;
+}
+
+header{
+  background-color: #002145;
+  font-color: white;
+}
+
+a{
+  color: #0055B7;
+}
+
+sup{
+  font-size:small; 
+  vertical-align:super;
+}
+sub{  
+  font-size:small; 
+  vertical-align: sub;
+}
+  
