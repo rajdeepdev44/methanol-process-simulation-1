@@ -1,5 +1,8 @@
 # Process Simulation of Methanol Production from Syngas
-<p>by <a href="https://rajdeepdev10.github.io" target="_blank">Rajdeep Dev</a></p>
+<p>
+  Author: <a href="https://rajdeepdev10.github.io" target="_blank">Rajdeep Dev</a> <br>
+  UBC ID: 71666887
+</p>
 
 <img src="./assets/images/cover-image.jpg" alt="chemical plant" width="400"><br>
 *image_caption*
@@ -10,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+|: ------------:|:-------------:|:-----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
